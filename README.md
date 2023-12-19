@@ -22,5 +22,5 @@ Team  Pl   W  D   L   F   A   GD Pts
 17         Nottingham Forest  17   3  5   9  17  30  -13  14
 18                Luton Town  16   2  3  11  17  32  -15   9
 19                   Burnley  17   2  2  13  16  36  -20   8
-20          Sheffield United  17   2  2  13  12  43  -31   8>
+20          Sheffield United  17   2  2  13  12  43  -31   8
 '''
